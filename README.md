@@ -1,6 +1,6 @@
 # Campex
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/48bf8b3f-03b9-4f6f-acff-896c3c44c71d" />
+<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/48bf8b3f-03b9-4f6f-acff-896c3c44c71d" />
 
 🎓 Campus Skill Exchange Platform
 
