@@ -7,14 +7,10 @@
 
 A web-based skill-matching and collaboration platform for students to showcase, share, and exchange skills with peers on campus.
 
----
-
 ## 💡 Idea & Motivation
 Peggy, a student majoring in Information Management, is passionate about cybersecurity. Between her thesis, teaching assistant duties, and internship, she often found it challenging to participate in fixed-time workshops organized by her university’s cybersecurity club. Despite her strong motivation and self-learning efforts, she struggled to find like-minded peers on campus—especially when forming teams for external competitions.
 
 This inspired the concept of **Campex (Campus Skill Exchange Platform)**: a web-based system designed to help students showcase their expertise, connect with peers across disciplines, and exchange skills more effectively. Whether it’s a designer learning to code or a cybersecurity enthusiast building a team, Campex aims to enable collaboration that extends beyond classroom boundaries.
-
----
 
 ## 📝 Why the Name "Campex"?
 - **Camp** → Represents the campus community and collective learning.  
