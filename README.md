@@ -1,7 +1,8 @@
 # Campex
 
-<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/48bf8b3f-03b9-4f6f-acff-896c3c44c71d" />
-
+<p align="center">
+  <img width="384" height="256" alt="image" src="https://github.com/user-attachments/assets/48bf8b3f-03b9-4f6f-acff-896c3c44c71d" />
+</p>
 🎓 Campus Skill Exchange Platform
 
 A web-based skill-matching and collaboration platform for students to showcase, share, and exchange skills with peers on campus.
